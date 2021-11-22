@@ -1,0 +1,152 @@
+C:\Users\glinb\Documents\Unreal Projects\TankGame\Plugins\QuestSystem\Intermediate\Build\Win64\UE4Editor\Development\QuestSystem\Definitions.QuestSystem.h
+C:/Users/glinb/Documents/Unreal Projects/TankGame/Plugins/QuestSystem/Intermediate/Build/Win64/UE4Editor/Inc/QuestSystem/CollectActor.gen.cpp
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\glinb\Documents\Unreal Projects\TankGame\Plugins\QuestSystem\Source\QuestSystem/Public/CollectActor.h
+C:\Users\glinb\Documents\Unreal Projects\TankGame\Plugins\QuestSystem\Source\QuestSystem\Public\CollectItem.h
+C:\Users\glinb\Documents\Unreal Projects\TankGame\Plugins\QuestSystem\Intermediate\Build\Win64\UE4Editor\Inc\QuestSystem\CollectItem.generated.h
+C:\Users\glinb\Documents\Unreal Projects\TankGame\Plugins\QuestSystem\Intermediate\Build\Win64\UE4Editor\Inc\QuestSystem\CollectActor.generated.h
+C:/Users/glinb/Documents/Unreal Projects/TankGame/Plugins/QuestSystem/Intermediate/Build/Win64/UE4Editor/Inc/QuestSystem/CollectItem.gen.cpp
+C:/Users/glinb/Documents/Unreal Projects/TankGame/Plugins/QuestSystem/Intermediate/Build/Win64/UE4Editor/Inc/QuestSystem/CollectObjective.gen.cpp
+C:\Users\glinb\Documents\Unreal Projects\TankGame\Plugins\QuestSystem\Source\QuestSystem/Public/CollectObjective.h
+C:\Users\glinb\Documents\Unreal Projects\TankGame\Plugins\QuestSystem\Source\QuestSystem\Public\Objective.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\CoreUObject.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Core.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformNamedPipe.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\HAL/PlatformNamedPipe.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformNamedPipe.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformCriticalSection.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\HAL/PlatformFile.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformFile.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\HAL/PlatformIncludes.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/MessageDialog.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ScopedDebugInfo.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ExternalProfiler.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/StringUtility.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Serialization/NameAsStringProxyArchive.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Containers/MRUArray.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Containers/TransArray.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Containers/ArrayBuilder.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/SingleThreadEvent.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\HAL/ThreadManager.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Containers/StaticBitArray.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Containers/MapBuilder.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\HAL/ThreadingBase.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Internationalization/TextLocalizationManagerGlobals.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Internationalization/Culture.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Logging/LogSuppressionInterface.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\HAL/OutputDevices.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Logging/LogScopedVerbosityOverride.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceNull.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceMemory.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceFile.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceDebug.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceArchiveWrapper.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceAnsiError.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/TimeGuard.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Serialization/LargeMemoryWriter.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Serialization/LargeMemoryData.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Serialization/LargeMemoryReader.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Serialization/BufferArchive.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Serialization/ArrayReader.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Serialization/ArrayWriter.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Serialization/BufferWriter.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/WildcardString.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Containers/CircularQueue.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceHelper.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/ScopedSlowTask.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/CallbackDevice.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/LocalTimestampDirectoryVisitor.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\UObject/BlueprintsObjectVersion.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\UObject/BuildObjectVersion.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\UObject/CoreObjectVersion.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\UObject/EditorObjectVersion.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\UObject/FrameworkObjectVersion.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\UObject/MobileObjectVersion.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\UObject/NetworkingObjectVersion.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\UObject/OnlineObjectVersion.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\UObject/PhysicsObjectVersion.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\UObject/PlatformObjectVersion.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\UObject/SequencerObjectVersion.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\UObject/VRObjectVersion.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceConsole.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/MonitoredProcess.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/ErrorException.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectAllocator.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\Misc/TextBuffer.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/PropertyLocalizationDataGathering.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/LevelGuids.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/ObjectMemoryAnalyzer.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/ReferenceChainSearch.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\HAL/ThreadHeartBeat.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\Internationalization/TextPackageNamespaceUtil.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Internationalization/TextNamespaceUtil.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveCountMem.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/ObjectAndNameAsStringProxyArchive.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/ObjectWriter.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/ObjectReader.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveShowReferences.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/FindReferencersArchive.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/FindObjectReferencers.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveFindCulprit.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/DuplicatedObject.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/DuplicatedDataReader.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/DuplicatedDataWriter.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveReplaceObjectRef.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveReplaceOrClearExternalReferences.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveObjectPropertyMapper.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveReferenceMarker.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/ArchiveObjectCrc32.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\Misc/NotifyHook.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\Misc/RedirectCollector.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptStackTracker.h
+C:\Users\glinb\Documents\Unreal Projects\TankGame\Plugins\QuestSystem\Intermediate\Build\Win64\UE4Editor\Inc\QuestSystem\Objective.generated.h
+C:\Users\glinb\Documents\Unreal Projects\TankGame\Plugins\QuestSystem\Intermediate\Build\Win64\UE4Editor\Inc\QuestSystem\CollectObjective.generated.h
+C:/Users/glinb/Documents/Unreal Projects/TankGame/Plugins/QuestSystem/Intermediate/Build/Win64/UE4Editor/Inc/QuestSystem/IInteractableObject.gen.cpp
+C:\Users\glinb\Documents\Unreal Projects\TankGame\Plugins\QuestSystem\Source\QuestSystem/Public/IInteractableObject.h
+C:\Users\glinb\Documents\Unreal Projects\TankGame\Plugins\QuestSystem\Intermediate\Build\Win64\UE4Editor\Inc\QuestSystem\IInteractableObject.generated.h
+C:/Users/glinb/Documents/Unreal Projects/TankGame/Plugins/QuestSystem/Intermediate/Build/Win64/UE4Editor/Inc/QuestSystem/InteractableActor.gen.cpp
+C:\Users\glinb\Documents\Unreal Projects\TankGame\Plugins\QuestSystem\Source\QuestSystem/Public/InteractableActor.h
+C:\Users\glinb\Documents\Unreal Projects\TankGame\Plugins\QuestSystem\Intermediate\Build\Win64\UE4Editor\Inc\QuestSystem\InteractableActor.generated.h
+C:/Users/glinb/Documents/Unreal Projects/TankGame/Plugins/QuestSystem/Intermediate/Build/Win64/UE4Editor/Inc/QuestSystem/InteractionComponent.gen.cpp
+C:\Users\glinb\Documents\Unreal Projects\TankGame\Plugins\QuestSystem\Source\QuestSystem/Public/InteractionComponent.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxComponent.generated.h
+C:\Users\glinb\Documents\Unreal Projects\TankGame\Plugins\QuestSystem\Intermediate\Build\Win64\UE4Editor\Inc\QuestSystem\InteractionComponent.generated.h
+C:/Users/glinb/Documents/Unreal Projects/TankGame/Plugins/QuestSystem/Intermediate/Build/Win64/UE4Editor/Inc/QuestSystem/InteractionObjective.gen.cpp
+C:\Users\glinb\Documents\Unreal Projects\TankGame\Plugins\QuestSystem\Source\QuestSystem/Public/InteractionObjective.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+F:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/ARFilter.h
+C:\Users\glinb\Documents\Unreal Projects\TankGame\Plugins\QuestSystem\Intermediate\Build\Win64\UE4Editor\Inc\QuestSystem\InteractionObjective.generated.h
+C:/Users/glinb/Documents/Unreal Projects/TankGame/Plugins/QuestSystem/Intermediate/Build/Win64/UE4Editor/Inc/QuestSystem/KillEnemy.gen.cpp
+C:\Users\glinb\Documents\Unreal Projects\TankGame\Plugins\QuestSystem\Source\QuestSystem/Public/KillEnemy.h
+C:\Users\glinb\Documents\Unreal Projects\TankGame\Plugins\QuestSystem\Intermediate\Build\Win64\UE4Editor\Inc\QuestSystem\KillEnemy.generated.h
+C:/Users/glinb/Documents/Unreal Projects/TankGame/Plugins/QuestSystem/Intermediate/Build/Win64/UE4Editor/Inc/QuestSystem/KillEnemyActor.gen.cpp
+C:\Users\glinb\Documents\Unreal Projects\TankGame\Plugins\QuestSystem\Source\QuestSystem/Public/KillEnemyActor.h
+C:\Users\glinb\Documents\Unreal Projects\TankGame\Plugins\QuestSystem\Intermediate\Build\Win64\UE4Editor\Inc\QuestSystem\KillEnemyActor.generated.h
+C:/Users/glinb/Documents/Unreal Projects/TankGame/Plugins/QuestSystem/Intermediate/Build/Win64/UE4Editor/Inc/QuestSystem/KillObjective.gen.cpp
+C:\Users\glinb\Documents\Unreal Projects\TankGame\Plugins\QuestSystem\Source\QuestSystem/Public/KillObjective.h
+C:\Users\glinb\Documents\Unreal Projects\TankGame\Plugins\QuestSystem\Intermediate\Build\Win64\UE4Editor\Inc\QuestSystem\KillObjective.generated.h
+C:/Users/glinb/Documents/Unreal Projects/TankGame/Plugins/QuestSystem/Intermediate/Build/Win64/UE4Editor/Inc/QuestSystem/LocationMarker.gen.cpp
+C:\Users\glinb\Documents\Unreal Projects\TankGame\Plugins\QuestSystem\Source\QuestSystem/Public/LocationMarker.h
+C:\Users\glinb\Documents\Unreal Projects\TankGame\Plugins\QuestSystem\Intermediate\Build\Win64\UE4Editor\Inc\QuestSystem\LocationMarker.generated.h
+C:/Users/glinb/Documents/Unreal Projects/TankGame/Plugins/QuestSystem/Intermediate/Build/Win64/UE4Editor/Inc/QuestSystem/LocationMarkerActor.gen.cpp
+C:\Users\glinb\Documents\Unreal Projects\TankGame\Plugins\QuestSystem\Source\QuestSystem/Public/LocationMarkerActor.h
+C:\Users\glinb\Documents\Unreal Projects\TankGame\Plugins\QuestSystem\Intermediate\Build\Win64\UE4Editor\Inc\QuestSystem\LocationMarkerActor.generated.h
+C:/Users/glinb/Documents/Unreal Projects/TankGame/Plugins/QuestSystem/Intermediate/Build/Win64/UE4Editor/Inc/QuestSystem/LocationObjective.gen.cpp
+C:\Users\glinb\Documents\Unreal Projects\TankGame\Plugins\QuestSystem\Source\QuestSystem/Public/LocationObjective.h
+C:\Users\glinb\Documents\Unreal Projects\TankGame\Plugins\QuestSystem\Intermediate\Build\Win64\UE4Editor\Inc\QuestSystem\LocationObjective.generated.h
+C:/Users/glinb/Documents/Unreal Projects/TankGame/Plugins/QuestSystem/Intermediate/Build/Win64/UE4Editor/Inc/QuestSystem/Objective.gen.cpp
+C:/Users/glinb/Documents/Unreal Projects/TankGame/Plugins/QuestSystem/Intermediate/Build/Win64/UE4Editor/Inc/QuestSystem/Quest.gen.cpp
+C:\Users\glinb\Documents\Unreal Projects\TankGame\Plugins\QuestSystem\Source\QuestSystem/Public/Quest.h
+C:\Users\glinb\Documents\Unreal Projects\TankGame\Plugins\QuestSystem\Intermediate\Build\Win64\UE4Editor\Inc\QuestSystem\Quest.generated.h
+C:/Users/glinb/Documents/Unreal Projects/TankGame/Plugins/QuestSystem/Intermediate/Build/Win64/UE4Editor/Inc/QuestSystem/QuestSystem.init.gen.cpp

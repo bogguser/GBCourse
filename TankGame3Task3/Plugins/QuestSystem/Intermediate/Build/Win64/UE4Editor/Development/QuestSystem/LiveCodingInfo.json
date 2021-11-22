@@ -1,0 +1,41 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.QuestSystem.cpp.obj": [
+			"CollectActor.cpp.obj",
+			"CollectItem.cpp.obj",
+			"CollectObjective.cpp.obj",
+			"IInteractableObject.cpp.obj",
+			"InteractableActor.cpp.obj",
+			"InteractionComponent.cpp.obj",
+			"InteractionObjective.cpp.obj",
+			"KillEnemy.cpp.obj",
+			"KillEnemyActor.cpp.obj",
+			"KillObjective.cpp.obj",
+			"LocationMarker.cpp.obj",
+			"LocationMarkerActor.cpp.obj",
+			"LocationObjective.cpp.obj",
+			"Objective.cpp.obj",
+			"Quest.cpp.obj",
+			"QuestSystem.cpp.obj"
+		],
+		"Module.QuestSystem.gen.cpp.obj": [
+			"CollectActor.gen.cpp.obj",
+			"CollectItem.gen.cpp.obj",
+			"CollectObjective.gen.cpp.obj",
+			"IInteractableObject.gen.cpp.obj",
+			"InteractableActor.gen.cpp.obj",
+			"InteractionComponent.gen.cpp.obj",
+			"InteractionObjective.gen.cpp.obj",
+			"KillEnemy.gen.cpp.obj",
+			"KillEnemyActor.gen.cpp.obj",
+			"KillObjective.gen.cpp.obj",
+			"LocationMarker.gen.cpp.obj",
+			"LocationMarkerActor.gen.cpp.obj",
+			"LocationObjective.gen.cpp.obj",
+			"Objective.gen.cpp.obj",
+			"Quest.gen.cpp.obj",
+			"QuestSystem.init.gen.cpp.obj"
+		]
+	}
+}
